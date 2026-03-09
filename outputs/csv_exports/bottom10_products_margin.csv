@@ -1,0 +1,11 @@
+product_id,product_category_name,total_revenue,total_profit,total_orders,profit_margin_pct
+PROD_00899,stationery,2605.92,2082.43,57,79.91
+PROD_01115,stationery,2581.73,2100.85,52,81.37
+PROD_02259,stationery,2321.29,1889.6100000000001,49,81.4
+PROD_00268,stationery,2556.62,2083.12,48,81.48
+PROD_00346,stationery,1700.54,1385.72,34,81.49
+PROD_00362,stationery,1807.56,1473.16,36,81.5
+PROD_01222,stationery,1981.4,1615.35,41,81.53
+PROD_02687,stationery,1968.1100000000001,1605.58,40,81.58
+PROD_02208,stationery,2725.76,2224.4,51,81.61
+PROD_00065,stationery,2765.4,2258.59,57,81.67

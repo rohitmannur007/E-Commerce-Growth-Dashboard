@@ -1,0 +1,11 @@
+product_id,product_category_name,total_revenue,total_profit,total_orders,profit_margin_pct
+PROD_00050,home_decor,9822.65,8922.17,32,90.83
+PROD_01465,clothing_accessories,9382.6,8435.15,46,89.9
+PROD_00855,sports_leisure,9342.49,8386.82,24,89.77
+PROD_01138,home_decor,14690.52,13168.49,43,89.64
+PROD_01335,kitchen_utilities,13384.1,11991.7,47,89.6
+PROD_00136,home_decor,15088.01,13516.82,55,89.59
+PROD_01576,home_decor,16301.66,14599.15,47,89.56
+PROD_00438,electronics,58317.61,52150.83,42,89.43
+PROD_00765,automotive,29460.11,26343.51,45,89.42
+PROD_02641,clothing_accessories,9450.880000000001,8449.33,44,89.4

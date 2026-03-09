@@ -1,0 +1,7 @@
+,price,freight_value,profit_estimate,review_score,delivery_days,payment_installments
+price,1.0,0.91,0.998,0.005,0.0,-0.008
+freight_value,0.91,1.0,0.881,0.004,0.001,-0.007
+profit_estimate,0.998,0.881,1.0,0.005,0.0,-0.008
+review_score,0.005,0.004,0.005,1.0,0.003,0.001
+delivery_days,0.0,0.001,0.0,0.003,1.0,-0.0
+payment_installments,-0.008,-0.007,-0.008,0.001,-0.0,1.0
